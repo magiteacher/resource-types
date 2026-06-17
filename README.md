@@ -1,4 +1,3 @@
-```markdown
 # MagiTeacher Resource Types 🧠
 **28 curriculum-aligned resources. Every teaching moment.**
 
