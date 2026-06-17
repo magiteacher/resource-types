@@ -334,7 +334,7 @@ as part of CPD.
 | Link | What's There |
 |---|---|
 | [Free Resources Library](https://magiteacher.com/resources?utm_source=github&utm_medium=referral&utm_content=resource_types_repo) | Browse our growing library of free curriculum-aligned resources |
-| [School Partnerships](https://magiteacher.com/help-and-partnerships?utm_source=github&utm_medium=referral&utm_content=resource_types_repo#schoolpartnership) | Dedicated school accounts, MAT licensing, and onboarding |
+| [School Partnerships](https://magiteacher.com/help-and-partnerships?utm_source=github&utm_medium=referral&utm_content=resource_types_repo) | Dedicated school accounts, MAT licensing, and onboarding |
 
 ---
 
