@@ -5,7 +5,7 @@
 A complete AI resource library built for teachers in England, covering every 
 stage of education from EYFS through to Year 13.
 
-→ Generate any of these instantly at 
+> Generate any of these instantly at
 [magiteacher.com](https://magiteacher.com/?utm_source=github&utm_medium=referral&utm_content=resource_types_repo)
 
 📚 Part of the [MagiTeacher GitHub organisation](https://github.com/magiteacher)
