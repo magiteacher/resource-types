@@ -1,3 +1,4 @@
+```markdown
 # MagiTeacher Resource Types 🧠
 **28 curriculum-aligned resources. Every teaching moment.**
 
@@ -7,6 +8,8 @@ stage of education from EYFS through to Year 13.
 → Generate any of these instantly at 
 [magiteacher.com](https://magiteacher.com/?utm_source=github&utm_medium=referral&utm_content=resource_types_repo)
 
+📚 Part of the [MagiTeacher GitHub organisation](https://github.com/magiteacher)
+
 ---
 
 ## How It Works
@@ -14,31 +17,37 @@ stage of education from EYFS through to Year 13.
 MagiTeacher turns 3 simple inputs into a classroom-ready resource in seconds.
 
 ### 1. The Class
-Select your Year Group and Subject. From Reception to Year 13, every subject 
+Year Group, Subject, and Topic. From Reception to Year 13, every subject 
 across the full National Curriculum.
 
-### 2. The Resource
-Choose one of 28 resource types and enter your Topic.
+### 2. The Output
+Resource type, Difficulty, and Length. Choose from 28 resource types — 
+each precision-engineered for a specific pedagogical task.
 
 ### 3. The Personalisation
-This is where the magic happens. The Context field is a free-text space where 
-you control the AI's creative range — from broad inspiration to precise, 
-print-ready output.
+Context (Details / Specifics / Theme). This is where the magic happens.
 
-**The same topic. Four completely different resources:**
+---
 
-| Context Type | Example | Result |
-|---|---|---|
-| **Broad** | "Fractions" (no context) | Wide creative range — exploratory hooks and suggestions |
-| **Thematic** | "Link to Apollo 11 moon landing" | Cross-curricular hook with narrative depth |
-| **Pedagogical** | "Apply a Concrete-Pictorial-Abstract (CPA) sequence" | Structured for deep conceptual understanding |
-| **Academic** | "Integrate Tier 3 vocab; focus on AO1 + AO2" | GCSE-aligned with assessment objectives |
+## The Context Field — Where the Magic Happens
 
-> **For inspiration:** Keep Topic broad, leave Context light. MagiTeacher gives 
-> you a wide range of pedagogical hooks and approaches.
->
-> **For precision:** Tighten the Topic, enrich the Context. MagiTeacher delivers 
-> a focused, ready-to-print resource.
+The third input — **The Personalisation** — is the most powerful and most 
+underused part of MagiTeacher.
+
+The Context field is a free-text space where you tell the AI exactly what 
+angle, theme, or depth you want. The same topic can produce radically 
+different resources depending on what you write here.
+
+- 🎨 **Add a theme** — "Frame this around a Spider-Man mission scenario"
+- 🔍 **Narrow the topic** — "Focus on Act 3 Scene 1 only, not the full play"
+- 👥 **Describe your class** — "Low-ability Year 8, struggles with extended writing"
+- 🧠 **Give a pedagogical direction** — "Apply a Concrete-Pictorial-Abstract sequence"
+- 🎯 **Add exam precision** — "Focus on AO1 and AO3, use mark scheme language"
+
+The imagination is the limit. The more deliberately you use Context, the 
+more useful your outputs become.
+
+👉 [Full Context Guide — with 10 real examples](https://github.com/magiteacher/context-guide)
 
 ### AI is the co-pilot. You are the captain.
 
@@ -312,8 +321,27 @@ as part of CPD.
 
 ---
 
+## 📚 MagiTeacher on GitHub
+
+| Repository | What's Inside |
+|---|---|
+| 🏠 [MagiTeacher Organisation](https://github.com/magiteacher) | Our full GitHub presence — who we are and what we build |
+| 🎯 [context-guide](https://github.com/magiteacher/context-guide) | How to use the Context field to get better resources from every one of these 28 types |
+
+---
+
+## 🌐 MagiTeacher Online
+
+| Link | What's There |
+|---|---|
+| [Free Resources Library](https://magiteacher.com/resources?utm_source=github&utm_medium=referral&utm_content=resource_types_repo) | Browse our growing library of free curriculum-aligned resources |
+| [School Partnerships](https://magiteacher.com/help-and-partnerships?utm_source=github&utm_medium=referral&utm_content=resource_types_repo#schoolpartnership) | Dedicated school accounts, MAT licensing, and onboarding |
+
+---
+
 ## Generate Any Resource Now
 
 👉 [magiteacher.com](https://magiteacher.com/?utm_source=github&utm_medium=referral&utm_content=resource_types_repo)
 
 5 free credits to try. No credit card required.
+```
